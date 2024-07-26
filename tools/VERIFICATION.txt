@@ -1,0 +1,5 @@
+﻿VERIFICATION
+Verification is intended to assist the Chocolatey moderators and community
+in verifying that this package's contents are trustworthy.
+
+Content of self extracting archive available here https://www.wch.cn/download/CH341SER_EXE.html
